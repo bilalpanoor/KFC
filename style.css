@@ -1,0 +1,266 @@
+body{
+    margin: 0px;
+
+}
+h1{
+    margin: 0;
+}
+.container1{
+    width: 100%;
+    height: 100px;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: space-between;
+    /* position: fixed; */
+    
+
+}
+.three{
+    background-color: #fff;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.fa-solid{
+    margin-left: 120px;
+    cursor: pointer;
+}
+.one{
+    width: 200px;
+    background-color:white;
+
+}
+.two{
+    
+    background-color:white;
+    display: flex;
+    align-items: center;
+    flex: 1;
+    justify-content: space-around;
+    font-weight: bold;    
+}
+/*/*first section end/*/
+.container2{
+    width: 100%;
+    height: 670px;
+    background-image: url(/images//STILLS_FROM_TVC_6__1_.png);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size:cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.fourone{
+    margin-right: 100px;
+}
+
+
+.textone{
+    width: 1130px;
+    /* height: 300px; */
+    color: white;
+    height: 100px;
+    /* background-color: #f40027; */
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 70px;
+    font-family: sans-serif;
+
+    
+    
+}
+.fourtwo{
+margin-right: 70px;
+}
+.textone h1{
+    margin-left: 120px;
+}
+
+.text{
+    width: 90%;
+    height: 500px;
+    background-color: aliceblue;
+}
+.container3{
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+
+}
+.o,.th,.t5{
+    width: 50px;
+    height: 30px;
+    background-color: rgb(240, 12, 12);
+}
+.t,.t4{
+    width: 50px;
+    height: 30px;
+    background-color: white;
+}
+.container4{
+    width: 100%;
+    height: 100px;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    font-size: 26px;
+    margin-top: 10px;
+    margin-left: 30px;
+    
+}
+.container5{
+    width: 1100px;
+    height: 250px;
+    background-color:white;
+    margin-top: 40px;
+    line-height: 1.5;
+    margin-left: 150px;
+    font-size: 24px;
+    font-weight: 500px;
+    
+}
+.container6{
+    width: 100%;
+    height: 150px;
+    /* background-color: white; */
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.view{
+    background-color: rgb(235, 10, 10);;
+    width: 160px;
+    height: 40px;
+    color: white;
+    /* text-align: center; */
+    margin-top: 30px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+    font-weight: bold;
+}
+.view:hover{
+    background-color: black;
+}
+.container7{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(246, 247, 250);
+    display: flex;
+    justify-content: center;
+    
+}
+.div1,.div2,.div3,.div4{
+    /* width: 200px; */
+    flex: 1;
+    height: 60px;
+    background-color: rgb(235, 10, 10);
+    margin: 1PX;
+    /* text-align: center; */
+    color: white;
+    font-weight: bold;
+    display: flex;
+    /* justify-items: center; */
+    align-items: center;
+    padding-left: 90px;
+    cursor: pointer;
+
+}
+/* .container8{
+    height: 500px;
+    width: 25%;
+    float: left;
+    background-image: url(/images/111.png);
+    
+    
+} */
+.container9{
+    height: 254pxpx;
+    width: 1366px;
+    float: left;
+    background-image: url(/images/footer_background.jpg);
+    background-repeat: no-repeat;
+    background-color: aquamarine;
+    background-size:cover;
+    
+}
+.center{
+    /* background-color: brown; */
+    width: 1110px;
+    height: 396px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 45px;
+}
+.ccc{
+    width: 290px;
+    height: 336px;
+    /* background-color: yellow; */
+    /* border: 1px solid white; */
+    list-style-type: none;
+    
+
+}
+
+.li{
+    color: #000;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+
+}
+.ccc li{
+    list-style-type: none;
+    line-height: 30px;
+}
+.ccc h3{
+    margin-left: 40px;
+    color: #f40027;
+    font-size: 16px;
+    font-weight: 700px;
+    /* font-family:National2Condensed, National2; */
+
+}
+
+.class18{
+    width: 100%;
+    height: 100px;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color:#000000;
+    font-size: 12px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+.div1:hover,.div2:hover,.div3:hover,.div4:hover{
+    background-color: black;
+}
+
+h4:hover{
+color: red;
+}
